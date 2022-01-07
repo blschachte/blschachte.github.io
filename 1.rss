@@ -1,0 +1,18 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>rss feed</title>
+  <link>https://blschachte.github.io</link>
+  <description>E</description>
+  <item>
+    <title>stuff</title>
+    <link>https://blschachte.github.io</link>
+    <description>lots of stuff here</description>
+  </item>
+  <item>
+    <title>more stuff</title>
+    <link>blschachte.github.io</link>
+    <description>lots of more stuff</description>
+  </item>
+  </channel>
+</rss>
